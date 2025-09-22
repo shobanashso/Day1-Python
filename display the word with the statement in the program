@@ -1,0 +1,28 @@
+Anil wants to know how to display the word with the statement in the program.can you please guide him to display the Statement.
+
+Input Format
+
+First input corresponds to the String.
+Constraints
+
+No Constraints
+
+Output Format
+
+Output corresponds to display the string with Statement.
+Sample Input 0
+
+C programming
+Sample Output 0
+
+May I know how to learn C!!!...
+Sample Input 1
+
+Python Programming
+Sample Output 1
+
+May I know how to learn Python!!!...
+
+#program
+a=input()
+print("May I know how to learn C!!!...")
