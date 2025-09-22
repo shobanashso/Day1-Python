@@ -1,0 +1,24 @@
+Write a program to print 'Hello' on screen and your name on a separate line.
+
+Input Format
+
+Input Consists of one String
+
+Constraints
+
+No Constraints
+
+Output Format
+
+Execute the given statement and input.
+
+Sample Input 0
+Vinothini
+
+Sample Output 0
+Hello
+Vinothini
+
+a=input()
+print("Hello")
+print(a)
