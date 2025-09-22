@@ -1,0 +1,40 @@
+Write a program to execute the datas with the statement.
+
+Input Format
+
+first input corresponds to integer
+second input corresponds to float
+third input corresponds to char
+fourth input correspond to string
+fifth input correspond to String
+Constraints
+
+No Constraints
+
+Output Format
+
+execute the user inputs with the statemets
+Sample Input 0
+
+23
+45.56
+A
+hello
+hello world
+Sample Output 0
+
+Integer is 23
+Float is 45.56
+Character is A
+Strings are hello and hello world
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a=int(input())
+b=float(input())
+c=input()
+d=input()
+e=input()
+print("Integer is",a)
+print("Float is",b)
+print("Character is",c)
+print(f"Strings are {d} and {e}")
