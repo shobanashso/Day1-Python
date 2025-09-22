@@ -1,0 +1,28 @@
+Write the program to execute conversion of other datatype.
+
+Input Format
+
+input corresponds to the integer
+Constraints
+
+No constraints
+
+Output Format
+
+output corresponds to the ASCII values(character)
+Sample Input 0
+
+68
+Sample Output 0
+
+D
+Sample Input 1
+
+111
+Sample Output 1
+
+o
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+a=int(input())
+print(chr(a))
